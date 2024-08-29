@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science student familiar with some backend and frontend development requirements. 
+Computer Science student (UTFPR), full stack web development knowledge. 
 
 
 ## 🌐 Socials:

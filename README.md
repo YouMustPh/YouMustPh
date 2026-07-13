@@ -11,8 +11,8 @@ Computer Science student at UTFPR-CM. I lead product and platform engineering en
 **SkyVista** is a TypeScript monorepo for travel commerce:
 
 - **React SPA** (admin + agency portal) behind an **Express API gateway** (auth, rate limiting, proxy)
-- **Backend principal** with **Prisma** and **PostgreSQL** — reservations, finance, RBAC
-- **Provider adapters** (RateHawk, EzConnect) as isolated services — operational data stays at the edge; canonical bookings live in the core
+- **Main Backend** with **Prisma** and **PostgreSQL** — reservations, finance, RBAC
+- **Provider adapters** (Hotel providers) as isolated services — operational data stays at the edge; canonical bookings live in the core
 - **Redis / BullMQ** for jobs and caching · **Docker** for local multi-DB infrastructure · **Turborepo** for the workspace
 
 ---
@@ -27,7 +27,7 @@ Computer Science student at UTFPR-CM. I lead product and platform engineering en
 
 - Org: [SkyVistaBR](https://github.com/SkyVistaBR)
 - Product: [skyvista.com.br](https://skyvista.com.br)
-- LinkedIn: [your-linkedin-url](https://linkedin.com/in/your-profile)
+- LinkedIn: [your-linkedin-url]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/paulo-silva-049827242/))
 
 ---
 

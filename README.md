@@ -1,6 +1,6 @@
 # Paulo Henrique
 
-**CTO @ [SkyVista](https://github.com/SkyVistaBR)** — building an airline ticket and hotel booking platform.
+**Head of development in @ [SkyVista](https://github.com/SkyVistaBR)** — building an airline ticket and hotel booking platform.
 
 Computer Science student at UTFPR-CM. I lead product and platform engineering end to end: architecture, delivery, and the stack that agencies and operators use every day.
 

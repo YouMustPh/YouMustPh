@@ -16,8 +16,8 @@ Estudante de Ciência da Computação na UTFPR-CM. No dia a dia eu entro na roti
 ## Trabalho
 
 - **[JOI](https://joi.tur.br).** Logística de incentivo. Quatro portais no mesmo cadastro, da gestão ao motorista, do CRM ao embarque.
-- **[SkyVista](https://skyvista.com.br).** Hotelaria B2B para agências. Venda, reserva, ERP próprio e pagamentos na mesma operação.
-- **[ENGEO](https://engeo.eco.br).** Monitoramento de águas e poços para cooperativas e aviários. A leitura de campo passou a ter histórico digital.
+- **SkyVista.** Hotelaria B2B para agências. Venda, reserva, ERP próprio e pagamentos na mesma operação.
+- **ENGEO.** Monitoramento de águas e poços para cooperativas e aviários. A leitura de campo passou a ter histórico digital.
 
 ## Stack
 

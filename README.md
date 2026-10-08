@@ -1,34 +1,30 @@
 # Paulo Henrique
 
-**Head of development in @ [SkyVista](https://github.com/SkyVistaBR)** — building an airline ticket and hotel booking platform.
+**Sócio da [LunesBox](https://lunesbox.com.br/).** Construímos, expandimos e mantemos sistemas que sustentam a operação de empresas no Brasil.
 
-Computer Science student at UTFPR-CM. I lead product and platform engineering end to end: architecture, delivery, and the stack that agencies and operators use every day.
-
----
-
-## What I'm building
-
-**SkyVista** is a TypeScript monorepo for travel commerce:
-
-- **React SPA** (admin + agency portal) behind an **Express API gateway** (auth, rate limiting, proxy)
-- **Main Backend** with **Prisma** and **PostgreSQL** — reservations, finance, RBAC
-- **Provider adapters** (Hotel providers) as isolated services — operational data stays at the edge; canonical bookings live in the core
-- **Redis / BullMQ** for jobs and caching · **Docker** for local multi-DB infrastructure · **Turborepo** for the workspace
+Estudante de Ciência da Computação na UTFPR-CM. No dia a dia eu entro na rotina do cliente, defino a arquitetura e entrego o sistema com o time.
 
 ---
 
-## Stack I work with daily
+## O que a LunesBox faz
 
-`TypeScript` · `Node.js` · `React` · `Vite` · `Express` · `Prisma` · `PostgreSQL` · `Redis` · `BullMQ` · `Docker` · `Turborepo` · `Biome` · `Vitest` · `Playwright`
+- **Projeto.** Quando a operação pede algo próprio, a rotina vira um sistema claro e pronto para o dia a dia.
+- **Expansão.** O sistema já funciona, mas ficou pequeno. Entram capacidades novas sem desmontar o que a equipe já conhece.
+- **Suporte.** Correção e acompanhamento para o sistema continuar confiável enquanto a empresa opera.
+- **Modernização.** Tecnologia e estrutura atualizadas em etapas, preservando o que o legado ainda faz bem.
 
----
+## Trabalho
 
-## Elsewhere
+- **[JOI](https://joi.tur.br).** Logística de incentivo. Quatro portais no mesmo cadastro, da gestão ao motorista, do CRM ao embarque.
+- **[SkyVista](https://skyvista.com.br).** Hotelaria B2B para agências. Venda, reserva, ERP próprio e pagamentos na mesma operação.
+- **[ENGEO](https://engeo.eco.br).** Monitoramento de águas e poços para cooperativas e aviários. A leitura de campo passou a ter histórico digital.
 
-- Org: [SkyVistaBR](https://github.com/SkyVistaBR)
-- Product: [skyvista.com.br](https://skyvista.com.br)
-- LinkedIn: [your-linkedin-url]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/paulo-silva-049827242/))
+## Stack
 
----
+`TypeScript` · `JavaScript` · `React` · `Next.js` · `Vite` · `Node.js` · `Express` · `PostgreSQL` · `Prisma` · `Redis` · `Docker` · `React Native` · `Python` · `Firebase`
 
-*Open to conversations about travel-tech platforms, TypeScript systems, and building product with small teams.*
+## Contato
+
+- Site: [lunesbox.com.br](https://lunesbox.com.br/)
+- E-mail: [contato@lunesbox.com.br](mailto:contato@lunesbox.com.br)
+- LinkedIn: [Paulo Silva](https://www.linkedin.com/in/paulo-silva-049827242/)

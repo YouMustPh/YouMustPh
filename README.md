@@ -26,5 +26,4 @@ Estudante de Ciência da Computação na UTFPR-CM. No dia a dia eu entro na roti
 ## Contato
 
 - Site: [lunesbox.com.br](https://lunesbox.com.br/)
-- E-mail: [contato@lunesbox.com.br](mailto:contato@lunesbox.com.br)
 - LinkedIn: [Paulo Silva](https://www.linkedin.com/in/paulo-silva-049827242/)
